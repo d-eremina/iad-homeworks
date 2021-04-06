@@ -1,1 +1,1 @@
-# iad-homeworks
+# machine learning course homeworks
